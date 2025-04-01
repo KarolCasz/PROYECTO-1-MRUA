@@ -48,30 +48,9 @@ pip install matplotlib
    - Aceleración (m/s²)
 3. Visualiza los gráficos de posición, velocidad y aceleración.
 4. Disfruta de la animación del movimiento de los dos objetos.
-5. Para visualizar las ecuaciones en formato matemático, ejecuta el siguiente código adicional:
-   ```python
-   import matplotlib.pyplot as plt
+
    
-   def mostrar_ecuaciones():
-       fig, ax = plt.subplots(figsize=(6, 4))
-       ax.axis("off")  # Oculta los ejes
-       
-       # Ecuaciones del MRUA
-       ecuaciones = (
-           r"$x(t) = x_0 + v_0 t + \frac{1}{2} a t^2$",
-           r"$v(t) = v_0 + a t$",
-           r"$a(t) = a$ (constante)"
-       )
-       
-       # Posiciones en la figura
-       for i, eq in enumerate(ecuaciones):
-           ax.text(0.1, 0.8 - i * 0.3, eq, fontsize=16, ha='left', va='center')
-       
-       plt.show()
-   
-   # Llamar a la función para mostrar las ecuaciones
-   mostrar_ecuaciones()
-   ```
+
 
 ## Ejemplo de Gráficos
 ![Ejemplo de Gráficos de MRUA](https://www.fisicalab.com/sites/all/files/contenidos/intromov/grafica_x-t_mrua.png)
