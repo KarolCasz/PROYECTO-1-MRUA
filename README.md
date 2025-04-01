@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0362a528-44a7-42d8-8b06-1ba396e6585b)# Simulación de Movimiento Rectilíneo Uniformemente Acelerado (MRUA)
+# Simulación de Movimiento Rectilíneo Uniformemente Acelerado (MRUA)
 
 ## Descripción
 Este proyecto implementa una simulación del **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** para dos objetos en movimiento. Utiliza **Python y Matplotlib** para calcular y graficar la posición, velocidad y aceleración en función del tiempo, además de generar una animación del movimiento.
@@ -75,14 +75,12 @@ pip install matplotlib
 
 ## Ejemplo de Gráficos
 ![Ejemplo de Gráficos de MRUA](https://www.fisicalab.com/sites/all/files/contenidos/intromov/grafica_x-t_mrua.png)
+![Ejemplo de Gráficos de MRUA](https://www.fisicalab.com/sites/all/files/contenidos/intromov/grafica_v-t_mrua.png)
 
 ## Objetivos del Proyecto
 - Ayudar a visualizar el concepto de **MRUA** con gráficos y animaciones.
 - Servir como herramienta educativa para **estudiantes de física**.
 - Proporcionar un código modular y reutilizable en simulaciones de movimiento.
-
-## Licencia
-Este proyecto está bajo la **Licencia MIT** – Eres libre de usarlo y modificarlo con atribución adecuada.
 
 ---
 **Autor:** _[Karol Ivonne Castro Hernández]_  
