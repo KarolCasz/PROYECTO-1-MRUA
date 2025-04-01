@@ -60,7 +60,3 @@ pip install matplotlib
 - Ayudar a visualizar el concepto de **MRUA** con gráficos y animaciones.
 - Servir como herramienta educativa para **estudiantes de física**.
 - Proporcionar un código modular y reutilizable en simulaciones de movimiento.
-
----
-**Autor:** _[Karol Ivonne Castro Hernández]_  
-**Repositorio en GitHub:** [Enlace al repositorio](https://github.com/tu_usuario/tu_repositorio)
